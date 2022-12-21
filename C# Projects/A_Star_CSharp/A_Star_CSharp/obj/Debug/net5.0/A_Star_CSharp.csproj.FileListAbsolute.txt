@@ -1,0 +1,16 @@
+C:\Users\Martin De Jonge\Desktop\MDJProjects\A_Star_CSharp\A_Star_CSharp\bin\Debug\net5.0\A_Star_CSharp.exe
+C:\Users\Martin De Jonge\Desktop\MDJProjects\A_Star_CSharp\A_Star_CSharp\bin\Debug\net5.0\A_Star_CSharp.deps.json
+C:\Users\Martin De Jonge\Desktop\MDJProjects\A_Star_CSharp\A_Star_CSharp\bin\Debug\net5.0\A_Star_CSharp.runtimeconfig.json
+C:\Users\Martin De Jonge\Desktop\MDJProjects\A_Star_CSharp\A_Star_CSharp\bin\Debug\net5.0\A_Star_CSharp.runtimeconfig.dev.json
+C:\Users\Martin De Jonge\Desktop\MDJProjects\A_Star_CSharp\A_Star_CSharp\bin\Debug\net5.0\A_Star_CSharp.dll
+C:\Users\Martin De Jonge\Desktop\MDJProjects\A_Star_CSharp\A_Star_CSharp\bin\Debug\net5.0\ref\A_Star_CSharp.dll
+C:\Users\Martin De Jonge\Desktop\MDJProjects\A_Star_CSharp\A_Star_CSharp\bin\Debug\net5.0\A_Star_CSharp.pdb
+C:\Users\Martin De Jonge\Desktop\MDJProjects\A_Star_CSharp\A_Star_CSharp\obj\Debug\net5.0\A_Star_CSharp.csproj.AssemblyReference.cache
+C:\Users\Martin De Jonge\Desktop\MDJProjects\A_Star_CSharp\A_Star_CSharp\obj\Debug\net5.0\A_Star_CSharp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Martin De Jonge\Desktop\MDJProjects\A_Star_CSharp\A_Star_CSharp\obj\Debug\net5.0\A_Star_CSharp.AssemblyInfoInputs.cache
+C:\Users\Martin De Jonge\Desktop\MDJProjects\A_Star_CSharp\A_Star_CSharp\obj\Debug\net5.0\A_Star_CSharp.AssemblyInfo.cs
+C:\Users\Martin De Jonge\Desktop\MDJProjects\A_Star_CSharp\A_Star_CSharp\obj\Debug\net5.0\A_Star_CSharp.csproj.CoreCompileInputs.cache
+C:\Users\Martin De Jonge\Desktop\MDJProjects\A_Star_CSharp\A_Star_CSharp\obj\Debug\net5.0\A_Star_CSharp.dll
+C:\Users\Martin De Jonge\Desktop\MDJProjects\A_Star_CSharp\A_Star_CSharp\obj\Debug\net5.0\ref\A_Star_CSharp.dll
+C:\Users\Martin De Jonge\Desktop\MDJProjects\A_Star_CSharp\A_Star_CSharp\obj\Debug\net5.0\A_Star_CSharp.pdb
+C:\Users\Martin De Jonge\Desktop\MDJProjects\A_Star_CSharp\A_Star_CSharp\obj\Debug\net5.0\A_Star_CSharp.genruntimeconfig.cache
