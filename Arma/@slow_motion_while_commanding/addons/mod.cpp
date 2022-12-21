@@ -1,0 +1,10 @@
+name = "Slow Motion While Commanding";
+picture = "picture.paa";
+actionName = "";
+action = "";
+description = "Slows the game speed down while having the command menu open.";
+logo = "logo.paa";
+logoOver = "logoOver.paa";
+tooltip = "Dogs are the best : )"
+overview = "Slows the game speed down while having the command menu open.";
+author = "mdjbutton";
