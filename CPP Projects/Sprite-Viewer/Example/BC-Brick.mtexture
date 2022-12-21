@@ -1,0 +1,7 @@
+@Name:"brick_texture";
+@Path:"Example\BC-Brick\brick.png";
+@TextureRect_L:"1";
+@TextureRect_T:"1";
+@TextureRect_W:"13";
+@TextureRect_H:"13";
+@Animation:"L, 1, 0, 0, 0, 0, 0, 0, false";

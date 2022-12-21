@@ -1,0 +1,8 @@
+@Name:"Pac-Man";
+@Texture:"pacman_texture";
+@DeathFx:"N/A";
+@ScaleX:"10";
+@ScaleY:"10";
+@MovementSpeed:"1.0";
+@SoundIdle:"N/A";
+@SoundMove:"N/A";

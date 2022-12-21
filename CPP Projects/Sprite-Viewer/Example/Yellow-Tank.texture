@@ -1,0 +1,10 @@
+@Name:"bc_player_tank";
+@Path:"Example\Yellow-Tank\tank.png";
+@TextureRect_L:"1";
+@TextureRect_T:"1";
+@TextureRect_W:"13";
+@TextureRect_H:"13";
+@Animation_Move_Up:"L, 1, 14, 14, 1, 13, 13, 0.1";
+@Animation_Move_Down:"L, 29, 14, 14, 1, 13, 13, 0.1";
+@Animation_Move_Left:"L, 15, 14, 14, 1, 13, 13, 0.1";
+@Animation_Move_Right:"L, 43, 14, 14, 1, 13, 13, 0.1";

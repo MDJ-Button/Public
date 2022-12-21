@@ -1,0 +1,10 @@
+@Name:"pacman_texture";
+@Path:"Example\Pac-Man\pac.png";
+@TextureRect_L:"1";
+@TextureRect_T:"1";
+@TextureRect_W:"13";
+@TextureRect_H:"13";
+@Animation_Move_Up:"L, 1, 28, 14, 1, 13, 13, 0.1";
+@Animation_Move_Down:"L, 14, 28, 14, 1, 13, 13, 0.1";
+@Animation_Move_Left:"L, 29, 28, 14, 1, 13, 13, 0.1";
+@Animation_Move_Right:"L, 43, 28, 14, 1, 13, 13, 0.1";

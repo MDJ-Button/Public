@@ -1,0 +1,7 @@
+@Name:"terraria_rainbow_brick";
+@Path:"Example\Terraria-Rainbow-Brick\brick.png";
+@TextureRect_L:"2";
+@TextureRect_T:"2";
+@TextureRect_W:"12";
+@TextureRect_H:"12";
+@Animation:"L, 2, 721, 16, 2, 12, 12, 0.1, false";

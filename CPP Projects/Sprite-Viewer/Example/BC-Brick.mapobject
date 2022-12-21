@@ -1,0 +1,6 @@
+@Name:"Brick";
+@Texture:"brick_texture";
+@DeathFx:"N/A";
+@Sound:"N/A";
+@ScaleX:"15";
+@ScaleY:"15";

@@ -1,0 +1,8 @@
+@Name:"Yellow-Tank";
+@Texture:"bc_player_tank";
+@DeathFx:"explosion_fx";
+@ScaleX:"5";
+@ScaleY:"5";
+@MovementSpeed:"1.0";
+@SoundIdle:"idle";
+@SoundMove:"move";
