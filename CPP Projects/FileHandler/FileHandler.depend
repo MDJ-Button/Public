@@ -1,0 +1,49 @@
+# depslib dependency file v1.0
+1622040486 source:c:\users\martin de jonge\desktop\mdjprojects\filehandler\filehandler.cpp
+	"FileHandler.h"
+
+1622040521 c:\users\martin de jonge\desktop\mdjprojects\filehandler\filehandler.h
+	<windows.h>
+	<iostream>
+	<string>
+	<algorithm>
+	<vector>
+
+1622039295 source:c:\users\martin de jonge\desktop\mdjprojects\filehandler\prase\praseline.cpp
+	"../FileHandler.h"
+
+1622039295 source:c:\users\martin de jonge\desktop\mdjprojects\filehandler\prase\praseline_bool.cpp
+	"../FileHandler.h"
+
+1622039232 source:c:\users\martin de jonge\desktop\mdjprojects\filehandler\prase\praseline_int.cpp
+	"../FileHandler.h"
+	<string>
+
+1622039295 source:c:\users\martin de jonge\desktop\mdjprojects\filehandler\prase\praseline_float.cpp
+	"../FileHandler.h"
+
+1622039295 source:c:\users\martin de jonge\desktop\mdjprojects\filehandler\prase\line.cpp
+	"../FileHandler.h"
+
+1622039295 source:c:\users\martin de jonge\desktop\mdjprojects\filehandler\prase\line_bool.cpp
+	"../FileHandler.h"
+
+1622039232 source:c:\users\martin de jonge\desktop\mdjprojects\filehandler\prase\line_bool_array.cpp
+	"../FileHandler.h"
+
+1622039295 source:c:\users\martin de jonge\desktop\mdjprojects\filehandler\prase\line_float.cpp
+	"../FileHandler.h"
+
+1622039232 source:c:\users\martin de jonge\desktop\mdjprojects\filehandler\prase\line_float_array.cpp
+	"../FileHandler.h"
+
+1622039232 source:c:\users\martin de jonge\desktop\mdjprojects\filehandler\prase\line_int.cpp
+	"../FileHandler.h"
+	<string>
+
+1622039232 source:c:\users\martin de jonge\desktop\mdjprojects\filehandler\prase\line_int_array.cpp
+	"../FileHandler.h"
+
+1622039232 source:c:\users\martin de jonge\desktop\mdjprojects\filehandler\prase\line_str_array.cpp
+	"../FileHandler.h"
+

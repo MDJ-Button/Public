@@ -1,0 +1,26 @@
+﻿  main.cpp
+C:\Users\Martin De Jonge\Desktop\A_Star\A_Star\main.cpp(49,74): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Martin De Jonge\Desktop\A_Star\A_Star\main.cpp(120,53): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\Martin De Jonge\Desktop\A_Star\A_Star\main.cpp(120,42): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\Martin De Jonge\Desktop\A_Star\A_Star\main.cpp(121,41): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Martin De Jonge\Desktop\A_Star\A_Star\main.cpp(124,80): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Martin De Jonge\Desktop\A_Star\A_Star\main.cpp(124,47): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Martin De Jonge\Desktop\A_Star\A_Star\main.cpp(170,65): warning C4244: 'argument': conversion from 'unsigned int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\Martin De Jonge\Desktop\A_Star\A_Star\main.cpp(170,47): warning C4244: 'argument': conversion from 'unsigned int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+  A_Star.vcxproj -> C:\Users\Martin De Jonge\Desktop\A_Star\x64\Debug\A_Star.exe

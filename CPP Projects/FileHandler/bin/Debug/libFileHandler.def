@@ -1,0 +1,10 @@
+EXPORTS
+    DllMain @1
+    Line @2
+    Line_Bool @3
+    Line_Bool_Array @4
+    Line_Float @5
+    Line_Float_Array @6
+    Line_Int @7
+    Line_Int_Array @8
+    Line_Str_Array @9
