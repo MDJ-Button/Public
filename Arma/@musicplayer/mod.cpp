@@ -1,0 +1,9 @@
+name = "Music Player";
+picture = "picture.paa";
+description = "Can listen to music and add custom music to Arma, just unpack the custommusic.pbo, replace the track-01, track-02 etc and repack the pbo.";
+logo = "logo.paa";
+logoOver = "logoOver.paa";
+tooltip = "Music Player";
+tooltipOwned = "Was bored.";
+overview = "Can listen to music and add custom music to Arma, just unpack the custommusic.pbo, replace the track-01, track-02 etc and repack the pbo.";
+author = "mdjbutton";

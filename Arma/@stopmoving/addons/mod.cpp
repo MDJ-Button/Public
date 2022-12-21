@@ -1,0 +1,9 @@
+name = "Stop Moving";
+picture = "picture.paa";
+description = "Some extra controls to keep units from moving when you don't want them too.";
+logo = "logo.paa";
+logoOver = "logoOver.paa";
+tooltip = "Stop Moving";
+tooltipOwned = "Stop Moving! You idoit!";
+overview = "Some extra controls to keep units from moving when you don't want them too.";
+author = "mdjbutton";

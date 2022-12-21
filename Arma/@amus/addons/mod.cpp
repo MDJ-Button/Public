@@ -1,0 +1,11 @@
+name = "Automatically Make Units Switchable";
+picture = "picture.paa";
+actionName = "";
+action = "";
+description = "Hello World";
+logo = "logo.paa";
+logoOver = "logoOver.paa";
+tooltip = "Tooltip";
+tooltipOwned = "Tooltip Owned";
+overview = "Overview";
+author = "mdjbutton";
