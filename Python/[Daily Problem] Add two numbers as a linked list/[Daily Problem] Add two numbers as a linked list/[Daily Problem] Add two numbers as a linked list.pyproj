@@ -1,0 +1,35 @@
+<Project DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003" ToolsVersion="4.0">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>3c18f5cc-5b66-4a5a-a9ee-cf5354e38bf7</ProjectGuid>
+    <ProjectHome>.</ProjectHome>
+    <StartupFile>_Daily_Problem__Add_two_numbers_as_a_linked_list.py</StartupFile>
+    <SearchPath>
+    </SearchPath>
+    <WorkingDirectory>.</WorkingDirectory>
+    <OutputPath>.</OutputPath>
+    <Name>[Daily Problem] Add two numbers as a linked list</Name>
+    <RootNamespace>[Daily Problem] Add two numbers as a linked list</RootNamespace>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)' == 'Debug' ">
+    <DebugSymbols>true</DebugSymbols>
+    <EnableUnmanagedDebugging>false</EnableUnmanagedDebugging>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)' == 'Release' ">
+    <DebugSymbols>true</DebugSymbols>
+    <EnableUnmanagedDebugging>false</EnableUnmanagedDebugging>
+  </PropertyGroup>
+  <ItemGroup>
+    <Compile Include="_Daily_Problem__Add_two_numbers_as_a_linked_list.py" />
+  </ItemGroup>
+  <Import Project="$(MSBuildExtensionsPath32)\Microsoft\VisualStudio\v$(VisualStudioVersion)\Python Tools\Microsoft.PythonTools.targets" />
+  <!-- Uncomment the CoreCompile target to enable the Build command in
+       Visual Studio and specify your pre- and post-build commands in
+       the BeforeBuild and AfterBuild targets below. -->
+  <!--<Target Name="CoreCompile" />-->
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+</Project>
